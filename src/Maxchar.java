@@ -53,7 +53,7 @@ public class Maxchar
 		}
 		
 		}
-		System.out.println( "total words"+wcount);
+		System.out.println( "total==== words"+wcount);
 		}
 		}
 
